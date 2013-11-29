@@ -1,7 +1,7 @@
 address-points
 ==============
 
-Address point GIS data for Baltimore County, split up by Maryland State 600 scale tax map boundaries.
+Address point GIS data for Baltimore County, split up by [Maryland State 600 scale tax map boundaries](https://github.com/baltimorecounty/grid-600-scale).
 
 ## Fields
 The fields are described in the [metadata](metadata/ "metadata folder").
