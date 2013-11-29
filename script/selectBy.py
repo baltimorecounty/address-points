@@ -13,8 +13,8 @@ arcpy.MakeFeatureLayer_management("C:/Export/address/address.shp", "pntlyr")
 # loop through the unique list of polygons
 for x in range(1,150):
     # Select Polygon Layer
-    arcpy.SelectLayerByAttribute_management("polylyr", "NEW_SELECTION", "TAXMAP = " + str.zfill(3)(x))
+    arcpy.SelectLayerByAttribute_management("polylyr", "NEW_SELECTION", "TAXMAP = " + str(x))
     # Select Intersecting Points
     arcpy.SelectLayerByLocation_management("pntlyr","INTERSECT","polylyr", "#", "NEW_SELECTION")
     # Copy Selected points to new shapefile in C:/Export folder
-    arcpy.CopyFeatures_management("pntlyr", "C:/Export/address/clip/address_" + str(x) + ".shp")
+    arcpy.CopyFeatures_management("pntlyr", "C:/Export/address/clip/address_" + str(x).zfill(3) + ".shp")
