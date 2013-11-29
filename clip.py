@@ -1,3 +1,8 @@
+# clips.py script
+# originally by @cageyjames
+# forked by @talllguy
+# https://gist.github.com/talllguy/7705827
+
 import arcpy
  
 from arcpy import env
