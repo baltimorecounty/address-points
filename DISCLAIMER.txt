@@ -1,0 +1,9 @@
+By downloading Baltimore County GIS data, you are agreeing with the warranty and disclaimer below.
+
+The user or recipient of this data understands and acknowledges this data may be inaccurate or contain errors or omissions and the user or recipient assumes full responsibility for any risks or damages resulting from, arising from or in connection with any use of or reliance upon data displayed herein. Baltimore County, Maryland does not warrant the accuracy or reliability of the data displayed herein. Baltimore County, Maryland disclaims all warranties with regard to data displayed herein, including but not limited to, all warranties, express or implied, of merchantability and fitness for any particular purpose. 
+
+Baltimore County, Maryland additionally disclaims all obligation and liability for damages, including but not limited to, actual, special, indirect, and consequential damages, attorneys’ and experts’ fees, and court costs incurred as a result of, arising from or in connection with the use of or reliance upon the data displayed herein.
+
+The user or recipient hereby waives the right to file suit or make demand and forever discharges and releases Baltimore County, Maryland, its agents, employees, successors and assigns from any and all loss, liability, damage, claim, cost or expense incurred as a result of, or arising out of or in connection with the use of data displayed herein or any reliance thereon, whether caused by the acts or omissions of Baltimore County, Maryland, its agents, employees, successors or assigns, directly or indirectly.   
+
+The user or recipient of data, hereby acknowledges that Baltimore County, Maryland, its agents, employees, successors, and assigns shall not be responsible for any and all property damage or bodily injury (including serious physical injury or even death) incurred as a result of, or arising out of or in connection with the use of or reliance upon data displayed herein.
