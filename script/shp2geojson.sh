@@ -1,0 +1,1 @@
+ogr2ogr -f GeoJSON -t_srs EPSG:4326 AddressPoints.geojson AddressPoints.shp
