@@ -213,16 +213,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-#####################################
-# All matter of shapefiles
-# (geoJSON only here)
-#####################################
-
-*.shp
-*.shx
-*.dbf
-*.prj
-*.shp.xml
-*.sbn
-*.sbx
